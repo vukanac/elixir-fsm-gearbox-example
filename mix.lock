@@ -1,0 +1,3 @@
+%{
+  "gearbox": {:hex, :gearbox, "0.3.1", "6f9f6eb23e1a263e234026b347660829e54d292ab0d3509088636392197fc2a2", [:mix], [{:ecto, "~> 3.4", [hex: :ecto, repo: "hexpm", optional: true]}], "hexpm", "5ca00e0c6c334ac96ce9359e3eb1ba984da0d3ef538eb15e39836de6d1a1ad09"},
+}
